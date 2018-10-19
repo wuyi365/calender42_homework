@@ -12,8 +12,8 @@ Please check the Test plan.pdf
 + requests
 
 #### How to start:
-    `python auto_caller.py`
+    python auto_caller.py
 
 #### Output:
 
-A csv file will be generated, which contains the distance result.
+A csv file named 'distance.csv' will be generated, which stores the distance result.
