@@ -1,0 +1,7 @@
+timestamp,origin_latitude_longitude,destination_latitude_longitude,origin_addresses,destination_addresses,distance_value
+2018-10-20 00:17:34,"51.72756055,5.547473487","51.673471,5.604358","Kortdreef 15, 5384 PV Heesch, Netherlands","Nistelrodeseweg 10, 5406 PT Uden, Netherlands",9365
+2018-10-20 00:17:34,"51.72756055,5.547473487","51.673471,5.604358","Kortdreef 15, 5384 PV Heesch, Netherlands","Nistelrodeseweg 10, 5406 PT Uden, Netherlands",9365
+2018-10-20 00:17:35,"50.6772072,5.5959908","50.814113,5.166075","Rue Florent Boclinville 151, 4041 Herstal, Belgium","Tiensesteenweg 170, 3800 Sint-Truiden, Belgium",40423
+2018-10-20 00:17:36,"50.9442881,5.4674197","50.814113,5.166075","De Wilgen 15, 3600 Genk, Belgium","Tiensesteenweg 170, 3800 Sint-Truiden, Belgium",34434
+2018-10-20 00:17:36,"52.3802093,4.872755698","51.953257,4.55655","Van Hallstraat 593, 1051 HD Amsterdam, Netherlands","Marten Meesweg 5, 3068 AV Rotterdam, Netherlands",79996
+2018-10-20 00:17:37,"52.34397807,4.825849925","51.953257,4.55655","Count Basiestraat 18, 1066 GM Amsterdam, Netherlands","Marten Meesweg 5, 3068 AV Rotterdam, Netherlands",72277
