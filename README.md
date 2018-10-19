@@ -1,19 +1,19 @@
 # Calender42 homework
 
 
-
 ## First assignment
 Please check the Test plan.pdf
 
 ## Second assignment
 
-####Requirement
+#### Requirement
 
 + python3
 + requests
 
-#### to start:
+#### How to start:
     `python auto_caller.py`
 
-####Output:
+#### Output:
+
 A csv file will be generated, which contains the distance result.
