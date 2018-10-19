@@ -1,20 +1,19 @@
-# calender42_homework
-
-##Liquid template engine
+# Calender42 homework
 
 
-## First
+
+## First assignment
 Please check the Test plan.pdf
 
-## Second
+## Second assignment
 
-Requirement
-python3
-requests
+####Requirement
 
-How to start:
-    python auto_caller.py
++ python3
++ requests
 
+#### to start:
+    `python auto_caller.py`
 
-Output:
+####Output:
 A csv file will be generated, which contains the distance result.
